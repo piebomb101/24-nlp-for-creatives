@@ -24,9 +24,8 @@
 #### Session 14: Generative text with Markov chains and RNNs. - Elena & Richa - 20th September
 - exercise: compare the generative text outputs from a Markov chain and an RNN.
 - what is and what isn't Machine Learning
-- scrape text from wikipedia and make a "poem" about narwhals (or cats, or chickens etc.)?
-- based on week 5 and week 7 (needs simplifying and shortening.)
-- prob no time to go through two notebooks during the lecture - tutors, please walk the students through the RNN notebook!
+- based on week 5 and week 7 (needs simplifying and shortening). Ideally, there would be 2 text generators based on the same input so that the students can compare.
+- in case there is not enough time to go through two notebooks during the lecture - tutors, please walk the students through the RNN notebook!
 
 #### Session 15: Chatbots. - Dan - 23rd September
 - lecture about chatbots with historical examples,
