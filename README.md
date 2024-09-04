@@ -29,5 +29,6 @@
 
 #### Session 15: Chatbots. - Dan - 23rd September
 - lecture about chatbots with historical examples,
-- local setup of ChatGPT2 (and llama - llama is optional),
+- local setup of ChatGPT2,
+- based on week 9,
 - advanced exercise: transfer learning (if Dan thinks it's viable).
