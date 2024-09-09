@@ -41,3 +41,7 @@ Open and run the ‘Text as numbers’ notebook. Read through and remind yoursel
 Try downloading and processing some other books from https://www.gutenberg.org/ . See what you can discover about a text just from its most common words. Also think about what problems are arising from the common word lists, that might make them less useful.
 
 What if you wanted to process multiple books at once? What considerations would you have to make?
+
+## BONUS
+
+Take a look at the spongebob-meme-generator and try to compleate the task!!!
